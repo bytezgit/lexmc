@@ -1,1 +1,10 @@
-
+{
+  "name": "chatroom-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
